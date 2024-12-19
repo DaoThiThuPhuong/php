@@ -123,3 +123,4 @@ class authController extends Controller
         return back()->with('success', 'Nhân viên đã được mở khóa thành công!');
     }
 }
+// comment
